@@ -124,5 +124,3 @@ IF driver_reaction_time > 2.5 seconds THEN risk = "Moderate"
    - Optimize the system for quick responses.
 
 ---
-
-This project can significantly boost your expertise in expert systems, AI, and software development while addressing a real-world issue! Let me know if you need help getting started.
